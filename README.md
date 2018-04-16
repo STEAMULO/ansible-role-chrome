@@ -38,4 +38,6 @@ BSD
 Author Information
 ------------------
 
-Prescott Chris
+Steamulo - www.steamulo.com
+
+Forked from [Prescott Chris](https://github.com/cmprescott)
